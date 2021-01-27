@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duatpwnd&show_icons=true&theme=dracula)
-### [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duatpwnd)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duatpwnd)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **duatpwnd/duatpwnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
